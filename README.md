@@ -1,3 +1,3 @@
 # ReactJS sample application
 
-![screenshot](img/screenshot.png)
+![screenshot](img/screenshot.PNG)
