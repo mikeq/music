@@ -1,0 +1,14 @@
+.App {
+  padding: 2em;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 200px 70vh;
+  grid-gap: 20px;
+}
+
+.add-form {
+  grid-column: 1 / -1;
+}
